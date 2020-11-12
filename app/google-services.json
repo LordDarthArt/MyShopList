@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931060205442",
+    "firebase_url": "https://myshoplist-f4b8f.firebaseio.com",
+    "project_id": "myshoplist-f4b8f",
+    "storage_bucket": "myshoplist-f4b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931060205442:android:4efcc0a296990c6259b19b",
+        "android_client_info": {
+          "package_name": "tk.lorddarthart.myshoplist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931060205442-6gjatr9lbfdd7t53tapqdfu07bo7338u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdX9QoEvvhhRNt0HTurEK3DrcEjFUJp9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931060205442-6gjatr9lbfdd7t53tapqdfu07bo7338u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

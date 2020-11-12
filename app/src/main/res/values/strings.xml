@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyShopList</string>
+    <string name="clear_the_checkboxes">Clear The Checkboxes</string>
+    <string name="exit_text">Exit</string>
+    <string name="shops_text">Shops</string>
+</resources>
